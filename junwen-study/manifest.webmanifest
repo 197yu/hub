@@ -1,0 +1,9 @@
+{
+  "name": "文职刷题",
+  "short_name": "文职刷题",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e7eef2",
+  "theme_color": "#14343a",
+  "lang": "zh-CN"
+}
